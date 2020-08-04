@@ -15,7 +15,7 @@ import com.autodeskcrm.gerericutils.ExcelLib;
 import com.autodeskcrm.gerericutils.FileLib;
 import com.autodeskcrm.gerericutils.WebDriverUtils;
 
-public class DeleteContact {
+public class DeleteContactTest {
 
 	@Test
 	public void deleteContactWithOrgtest() throws Throwable {

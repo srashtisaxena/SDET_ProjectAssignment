@@ -14,7 +14,7 @@ import com.autodeskcrm.gerericutils.ExcelLib;
 import com.autodeskcrm.gerericutils.FileLib;
 import com.autodeskcrm.gerericutils.WebDriverUtils;
 
-public class DeleteOrg {
+public class DeleteOrgTest {
 	
 	@Test
 	public void deleteORgtest() throws Throwable {
