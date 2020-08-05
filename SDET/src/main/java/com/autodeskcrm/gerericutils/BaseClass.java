@@ -16,7 +16,7 @@ public class BaseClass {
 	public ExcelLib excelLib = new ExcelLib();
 	public FileLib fLib = new FileLib();
 	public WebDriverUtils wLib = new WebDriverUtils();
-	public WebDriver driver = null;
+	public static WebDriver driver = null;
 
 
 	@BeforeClass
